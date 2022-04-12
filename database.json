@@ -14,8 +14,40 @@
       "DELETE"
     ]
   },
-  "products": [
-    {
+  "uploads":{
+    "products":{
+      "image1":{
+        "path": "./img/cake1.jpg",
+        "url": "http://localhost:3000/uploads/img/cake1.jpg"
+      },
+      "image2":{
+        "path": "./img/cake2.jpg",
+        "url": "http://localhost:3000/uploads/img/cake2.jpg"
+      },
+      "image3":{
+        "path": "./img/cake3.jpg",
+        "url": "http://localhost:3000/uploads/img/cake3.jpg"
+      },
+      "image4":{
+        "path": "./img/cake4.jpg",
+        "url": "http://localhost:3000/uploads/img/cake4.jpg"
+      },
+      "image5":{
+        "path": "./img/cake5.jpg",
+        "url": "http://localhost:3000/uploads/img/cake5.jpg"
+      },
+      "image6":{
+        "path": "./img/cake6.jpg",
+        "url": "http://localhost:3000/uploads/img/cake6.jpg"
+      },
+      "image7":{
+        "path": "./img/cake7.jpg",
+        "url": "http://localhost:3000/uploads/img/cake7.jpg"
+      }
+    }
+  },
+
+  "popular-products": {
       "total_Size": 7,
       "type_id": 2,
       "offset": 0,
@@ -26,7 +58,7 @@
           "description": "Bánh kem gato được làm bằng sô cô la. Nó có thể bao gồm các thành phần khác như fudge , creme vani và các chất tạo ngọt khác. Lịch sử bánh sô cô lla bắt nguồn từ thế kỷ 17, khi bột cacao từ châu Mỹ được thêm vào các công thức làm bánh truyền thống. Vào năm 1828, Coenraad van Houten ở Hà Lan đã phát triển một phương pháp chiết xuất cơ học để chiết xuất chất béo từ rượu cacao, tạo ra bơ cacao và một phần cacao đã khử chất béo, một khối chất rắn nén có thể được bán với tên gọi cacao đá hoặc nghiền thành bột. Các quy trình đã biến sô cô la từ một thứ xa xỉ độc quyền thành một món ăn nhẹ hàng ngày rẻ tiền. Ở Mỹ, bánh “sô cô la suy đồi” thịnh hành vào những năm 1980; trong những năm 1990, bánh sô cô la nóng chảy phục vụ một lần với các trung tâm sô cô la lỏng và sô cô la tẩm với các hương vị kỳ lạ như trà, cà ri, ớt đỏ, chanh dây và rượu sâm panh rất phổ biến. Phòng chờ sô-cô-la và những nhà sản xuất sô-cô-la thủ công rất phổ biến vào những năm 2000. Những chiếc bánh sô cô la béo ngậy, không bột mì, hoàn toàn không có bột mì là 'tiêu chuẩn hiện nay trong tiệm bánh pâtisserie hiện đại'.",
           "price": 499,
           "stars": 5,
-          "img": "https://cdn.pastaxi-manager.onepas.vn/content/uploads/articles/mau-banh-kem-socola-dep-10.jpg",
+          "img": "img/cake1.jpg",
           "location": "VietNam, Ho Chi Minh City",
           "created_at": "2022-04-08 10:09:08",
           "updated_at": "2022-04-08 23:17:29",
@@ -105,6 +137,5 @@
           "type_id": 2
         }
       ]
-    }
-  ]
+  }
 }
