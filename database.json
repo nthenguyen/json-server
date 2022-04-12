@@ -17,32 +17,32 @@
   "uploads":{
     "products":{
       "image1":{
-        "path": "./img/cake1.jpg",
-        "url": "http://localhost:3000/uploads/img/cake1.jpg"
+        "path": "./uploads/cake1.jpg",
+        "url": "http://localhost:3000/uploads/cake1.jpg"
       },
       "image2":{
         "path": "./img/cake2.jpg",
-        "url": "http://localhost:3000/uploads/img/cake2.jpg"
+        "url": "http://localhost:3000/uploads/cake2.jpg"
       },
       "image3":{
         "path": "./img/cake3.jpg",
-        "url": "http://localhost:3000/uploads/img/cake3.jpg"
+        "url": "http://localhost:3000/uploads/cake3.jpg"
       },
       "image4":{
         "path": "./img/cake4.jpg",
-        "url": "http://localhost:3000/uploads/img/cake4.jpg"
+        "url": "http://localhost:3000/uploads/cake4.jpg"
       },
       "image5":{
         "path": "./img/cake5.jpg",
-        "url": "http://localhost:3000/uploads/img/cake5.jpg"
+        "url": "http://localhost:3000/uploads/cake5.jpg"
       },
       "image6":{
         "path": "./img/cake6.jpg",
-        "url": "http://localhost:3000/uploads/img/cake6.jpg"
+        "url": "http://localhost:3000/uploads/cake6.jpg"
       },
       "image7":{
         "path": "./img/cake7.jpg",
-        "url": "http://localhost:3000/uploads/img/cake7.jpg"
+        "url": "http://localhost:3000/uploads/cake7.jpg"
       }
     }
   },
@@ -58,7 +58,7 @@
           "description": "Bánh kem gato được làm bằng sô cô la. Nó có thể bao gồm các thành phần khác như fudge , creme vani và các chất tạo ngọt khác. Lịch sử bánh sô cô lla bắt nguồn từ thế kỷ 17, khi bột cacao từ châu Mỹ được thêm vào các công thức làm bánh truyền thống. Vào năm 1828, Coenraad van Houten ở Hà Lan đã phát triển một phương pháp chiết xuất cơ học để chiết xuất chất béo từ rượu cacao, tạo ra bơ cacao và một phần cacao đã khử chất béo, một khối chất rắn nén có thể được bán với tên gọi cacao đá hoặc nghiền thành bột. Các quy trình đã biến sô cô la từ một thứ xa xỉ độc quyền thành một món ăn nhẹ hàng ngày rẻ tiền. Ở Mỹ, bánh “sô cô la suy đồi” thịnh hành vào những năm 1980; trong những năm 1990, bánh sô cô la nóng chảy phục vụ một lần với các trung tâm sô cô la lỏng và sô cô la tẩm với các hương vị kỳ lạ như trà, cà ri, ớt đỏ, chanh dây và rượu sâm panh rất phổ biến. Phòng chờ sô-cô-la và những nhà sản xuất sô-cô-la thủ công rất phổ biến vào những năm 2000. Những chiếc bánh sô cô la béo ngậy, không bột mì, hoàn toàn không có bột mì là 'tiêu chuẩn hiện nay trong tiệm bánh pâtisserie hiện đại'.",
           "price": 499,
           "stars": 5,
-          "img": "img/cake1.jpg",
+          "img": "uploads/cake1.jpg",
           "location": "VietNam, Ho Chi Minh City",
           "created_at": "2022-04-08 10:09:08",
           "updated_at": "2022-04-08 23:17:29",
@@ -70,7 +70,7 @@
           "description": "Bánh kem gato được làm bằng sô cô la. Nó có thể bao gồm các thành phần khác như fudge , creme vani và các chất tạo ngọt khác. Lịch sử bánh sô cô lla bắt nguồn từ thế kỷ 17, khi bột cacao từ châu Mỹ được thêm vào các công thức làm bánh truyền thống. Vào năm 1828, Coenraad van Houten ở Hà Lan đã phát triển một phương pháp chiết xuất cơ học để chiết xuất chất béo từ rượu cacao, tạo ra bơ cacao và một phần cacao đã khử chất béo, một khối chất rắn nén có thể được bán với tên gọi cacao đá hoặc nghiền thành bột. Các quy trình đã biến sô cô la từ một thứ xa xỉ độc quyền thành một món ăn nhẹ hàng ngày rẻ tiền. Ở Mỹ, bánh “sô cô la suy đồi” thịnh hành vào những năm 1980; trong những năm 1990, bánh sô cô la nóng chảy phục vụ một lần với các trung tâm sô cô la lỏng và sô cô la tẩm với các hương vị kỳ lạ như trà, cà ri, ớt đỏ, chanh dây và rượu sâm panh rất phổ biến. Phòng chờ sô-cô-la và những nhà sản xuất sô-cô-la thủ công rất phổ biến vào những năm 2000. Những chiếc bánh sô cô la béo ngậy, không bột mì, hoàn toàn không có bột mì là 'tiêu chuẩn hiện nay trong tiệm bánh pâtisserie hiện đại'.",
           "price": 499,
           "stars": 4,
-          "img": "https://images.unsplash.com/photo-1535141192574-5d4897c12636?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Nnx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60",
+          "img": "uploads/cake2.jpg",
           "location": "VietNam, Ho Chi Minh City",
           "created_at": "2022-04-08 10:09:08",
           "updated_at": "2022-04-08 23:17:29",
@@ -82,7 +82,7 @@
           "description": "Bánh kem gato được làm bằng sô cô la. Nó có thể bao gồm các thành phần khác như fudge , creme vani và các chất tạo ngọt khác. Lịch sử bánh sô cô lla bắt nguồn từ thế kỷ 17, khi bột cacao từ châu Mỹ được thêm vào các công thức làm bánh truyền thống. Vào năm 1828, Coenraad van Houten ở Hà Lan đã phát triển một phương pháp chiết xuất cơ học để chiết xuất chất béo từ rượu cacao, tạo ra bơ cacao và một phần cacao đã khử chất béo, một khối chất rắn nén có thể được bán với tên gọi cacao đá hoặc nghiền thành bột. Các quy trình đã biến sô cô la từ một thứ xa xỉ độc quyền thành một món ăn nhẹ hàng ngày rẻ tiền. Ở Mỹ, bánh “sô cô la suy đồi” thịnh hành vào những năm 1980; trong những năm 1990, bánh sô cô la nóng chảy phục vụ một lần với các trung tâm sô cô la lỏng và sô cô la tẩm với các hương vị kỳ lạ như trà, cà ri, ớt đỏ, chanh dây và rượu sâm panh rất phổ biến. Phòng chờ sô-cô-la và những nhà sản xuất sô-cô-la thủ công rất phổ biến vào những năm 2000. Những chiếc bánh sô cô la béo ngậy, không bột mì, hoàn toàn không có bột mì là 'tiêu chuẩn hiện nay trong tiệm bánh pâtisserie hiện đại'.",
           "price": 499,
           "stars": 4,
-          "img": "https://images.unsplash.com/photo-1571115177098-24ec42ed204d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8M3x8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60",
+          "img": "uploads/cake3.jpg",
           "location": "VietNam, Ho Chi Minh City",
           "created_at": "2022-04-08 10:09:08",
           "updated_at": "2022-04-08 23:17:29",
@@ -94,7 +94,7 @@
           "description": "Bánh kem gato được làm bằng sô cô la. Nó có thể bao gồm các thành phần khác như fudge , creme vani và các chất tạo ngọt khác. Lịch sử bánh sô cô lla bắt nguồn từ thế kỷ 17, khi bột cacao từ châu Mỹ được thêm vào các công thức làm bánh truyền thống. Vào năm 1828, Coenraad van Houten ở Hà Lan đã phát triển một phương pháp chiết xuất cơ học để chiết xuất chất béo từ rượu cacao, tạo ra bơ cacao và một phần cacao đã khử chất béo, một khối chất rắn nén có thể được bán với tên gọi cacao đá hoặc nghiền thành bột. Các quy trình đã biến sô cô la từ một thứ xa xỉ độc quyền thành một món ăn nhẹ hàng ngày rẻ tiền. Ở Mỹ, bánh “sô cô la suy đồi” thịnh hành vào những năm 1980; trong những năm 1990, bánh sô cô la nóng chảy phục vụ một lần với các trung tâm sô cô la lỏng và sô cô la tẩm với các hương vị kỳ lạ như trà, cà ri, ớt đỏ, chanh dây và rượu sâm panh rất phổ biến. Phòng chờ sô-cô-la và những nhà sản xuất sô-cô-la thủ công rất phổ biến vào những năm 2000. Những chiếc bánh sô cô la béo ngậy, không bột mì, hoàn toàn không có bột mì là 'tiêu chuẩn hiện nay trong tiệm bánh pâtisserie hiện đại'.",
           "price": 499,
           "stars": 5,
-          "img": "https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60",
+          "img": "uploads/cake4.jpg",
           "location": "VietNam, Ho Chi Minh City",
           "created_at": "2022-04-08 10:09:08",
           "updated_at": "2022-04-08 23:17:29",
@@ -106,7 +106,7 @@
           "description": "Bánh kem gato được làm bằng sô cô la. Nó có thể bao gồm các thành phần khác như fudge , creme vani và các chất tạo ngọt khác. Lịch sử bánh sô cô lla bắt nguồn từ thế kỷ 17, khi bột cacao từ châu Mỹ được thêm vào các công thức làm bánh truyền thống. Vào năm 1828, Coenraad van Houten ở Hà Lan đã phát triển một phương pháp chiết xuất cơ học để chiết xuất chất béo từ rượu cacao, tạo ra bơ cacao và một phần cacao đã khử chất béo, một khối chất rắn nén có thể được bán với tên gọi cacao đá hoặc nghiền thành bột. Các quy trình đã biến sô cô la từ một thứ xa xỉ độc quyền thành một món ăn nhẹ hàng ngày rẻ tiền. Ở Mỹ, bánh “sô cô la suy đồi” thịnh hành vào những năm 1980; trong những năm 1990, bánh sô cô la nóng chảy phục vụ một lần với các trung tâm sô cô la lỏng và sô cô la tẩm với các hương vị kỳ lạ như trà, cà ri, ớt đỏ, chanh dây và rượu sâm panh rất phổ biến. Phòng chờ sô-cô-la và những nhà sản xuất sô-cô-la thủ công rất phổ biến vào những năm 2000. Những chiếc bánh sô cô la béo ngậy, không bột mì, hoàn toàn không có bột mì là 'tiêu chuẩn hiện nay trong tiệm bánh pâtisserie hiện đại'.",
           "price": 499,
           "stars": 5,
-          "img": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8NHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60",
+          "img": "uploads/cake5.jpg",
           "location": "VietNam, Ha Noi",
           "created_at": "2022-04-08 10:09:08",
           "updated_at": "2022-04-08 23:17:29",
@@ -118,7 +118,7 @@
           "description": "Bánh kem gato được làm bằng sô cô la. Nó có thể bao gồm các thành phần khác như fudge , creme vani và các chất tạo ngọt khác. Lịch sử bánh sô cô lla bắt nguồn từ thế kỷ 17, khi bột cacao từ châu Mỹ được thêm vào các công thức làm bánh truyền thống. Vào năm 1828, Coenraad van Houten ở Hà Lan đã phát triển một phương pháp chiết xuất cơ học để chiết xuất chất béo từ rượu cacao, tạo ra bơ cacao và một phần cacao đã khử chất béo, một khối chất rắn nén có thể được bán với tên gọi cacao đá hoặc nghiền thành bột. Các quy trình đã biến sô cô la từ một thứ xa xỉ độc quyền thành một món ăn nhẹ hàng ngày rẻ tiền. Ở Mỹ, bánh “sô cô la suy đồi” thịnh hành vào những năm 1980; trong những năm 1990, bánh sô cô la nóng chảy phục vụ một lần với các trung tâm sô cô la lỏng và sô cô la tẩm với các hương vị kỳ lạ như trà, cà ri, ớt đỏ, chanh dây và rượu sâm panh rất phổ biến. Phòng chờ sô-cô-la và những nhà sản xuất sô-cô-la thủ công rất phổ biến vào những năm 2000. Những chiếc bánh sô cô la béo ngậy, không bột mì, hoàn toàn không có bột mì là 'tiêu chuẩn hiện nay trong tiệm bánh pâtisserie hiện đại'.",
           "price": 499,
           "stars": 4,
-          "img": "https://images.unsplash.com/photo-1542826438-bd32f43d626f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTJ8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+          "img": "uploads/cake6.jpg",
           "location": "VietNam, Ha Noi",
           "created_at": "2022-04-08 10:09:08",
           "updated_at": "2022-04-08 23:17:29",
@@ -130,7 +130,7 @@
           "description": "Bánh kem gato được làm bằng sô cô la. Nó có thể bao gồm các thành phần khác như fudge , creme vani và các chất tạo ngọt khác. Lịch sử bánh sô cô lla bắt nguồn từ thế kỷ 17, khi bột cacao từ châu Mỹ được thêm vào các công thức làm bánh truyền thống. Vào năm 1828, Coenraad van Houten ở Hà Lan đã phát triển một phương pháp chiết xuất cơ học để chiết xuất chất béo từ rượu cacao, tạo ra bơ cacao và một phần cacao đã khử chất béo, một khối chất rắn nén có thể được bán với tên gọi cacao đá hoặc nghiền thành bột. Các quy trình đã biến sô cô la từ một thứ xa xỉ độc quyền thành một món ăn nhẹ hàng ngày rẻ tiền. Ở Mỹ, bánh “sô cô la suy đồi” thịnh hành vào những năm 1980; trong những năm 1990, bánh sô cô la nóng chảy phục vụ một lần với các trung tâm sô cô la lỏng và sô cô la tẩm với các hương vị kỳ lạ như trà, cà ri, ớt đỏ, chanh dây và rượu sâm panh rất phổ biến. Phòng chờ sô-cô-la và những nhà sản xuất sô-cô-la thủ công rất phổ biến vào những năm 2000. Những chiếc bánh sô cô la béo ngậy, không bột mì, hoàn toàn không có bột mì là 'tiêu chuẩn hiện nay trong tiệm bánh pâtisserie hiện đại'.",
           "price": 499,
           "stars": 5,
-          "img": "https://images.unsplash.com/photo-1516054575922-f0b8eeadec1a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8OXx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60",
+          "img": "uploads/cake7.jpg",
           "location": "VietNam, Ha Noi",
           "created_at": "2022-04-08 10:09:08",
           "updated_at": "2022-04-08 23:17:29",
